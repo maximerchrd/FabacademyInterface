@@ -152,3 +152,4 @@ UnityGeigerCounterGame/UnityGeigerCounterGame/Assets/FPS/Scripts/AudioManager.cs
 UnityGeigerCounterGame/UnityGeigerCounterGame/Assets/FPS/Scripts/ActorsManager.cs
 UnityGeigerCounterGame/UnityGeigerCounterGame/Assets/FPS/Scripts/Actor.cs
 .gitattributes
+/UnityGeigerCounterGame/UnityGeigerCounterGame/Temp
