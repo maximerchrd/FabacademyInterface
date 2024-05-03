@@ -12,7 +12,7 @@ This is also a simple plotter of the clicks. To use this script, you first need 
 - pip install matplotlib
 - pip install pyserial
 - python PythonGeigerCounter.py
-- Change the port name. For windows, if the port name is "COM14", write "\\\\.\\COM14".
+- Change the port name. For windows, if the port name is "COM14", write "\\\\\\\\.\\\\COM14".
 
 ## Geiger Counter game with Unity
 This is only the script for reading from the serial connection. It was tested with the FPS Microgame from the unity tutorials (tested with unity 2019). This microgame is only available until Unity 2021. To test it you need to:
